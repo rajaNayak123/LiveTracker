@@ -1,0 +1,16 @@
+{
+  "name": "livapath",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "rajaNayak",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "socket.io": "^4.8.1"
+  }
+}
